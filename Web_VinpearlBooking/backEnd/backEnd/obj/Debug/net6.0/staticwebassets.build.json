@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "L+b5YdkvxCMv2jCWQbV8sRFOUI5lzuHPTBWQWzbZVUM=",
+  "Source": "WebHotel",
+  "BasePath": "_content/WebHotel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebHotel\\wwwroot",
+      "Source": "WebHotel",
+      "ContentRoot": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/WebHotel",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

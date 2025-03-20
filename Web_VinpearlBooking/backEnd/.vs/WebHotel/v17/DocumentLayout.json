@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\migrations\\20250315083422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\migrations\\20250315083422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\models\\discountreservationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\discountreservationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\models\\discountroomdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\discountroomdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\models\\discountservicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\discountservicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\models\\discounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\discounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\models\\invoicereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\invoicereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\database\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B90AF-2BB4-4FE3-9B5E-535E9416F7A4}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\webhotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\webhotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\repository\\adminrepository\\discountservicedetailadminrepository\\discountroomdetailadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\repository\\adminrepository\\discountservicedetailadminrepository\\discountroomdetailadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\repository\\adminrepository\\discountservicedetailadminrepository\\idiscountroomdetailadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\repository\\adminrepository\\discountservicedetailadminrepository\\idiscountroomdetailadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\service\\tokenrepository\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\service\\tokenrepository\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\images\\img_0317.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\images\\img_0317.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\images\\img_4028.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\images\\img_4028.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\images\\img_4028-min.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\images\\img_4028-min.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\images\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\images\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\startup\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\startup\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\startup\\authorsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\startup\\authorsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|d:\\web_hotelbooking\\web_vinpearlbooking\\backend\\backend\\repository\\userrepository\\reservationuserrepository\\ireservationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14177D16-2FAF-4475-8DD2-4CD92F66105E}|backEnd\\WebHotel.csproj|solutionrelative:backend\\repository\\userrepository\\reservationuserrepository\\ireservationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Migrations\\MyDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataBase\\Migrations\\MyDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Migrations\\MyDBContextModelSnapshot.cs",
+              "RelativeToolTip": "DataBase\\Migrations\\MyDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:56:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiscountType.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\DiscountType.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\DiscountType.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\DiscountType.cs",
+              "RelativeToolTip": "DataBase\\Models\\DiscountType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:21:13.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceReservation.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\InvoiceReservation.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\InvoiceReservation.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\InvoiceReservation.cs",
+              "RelativeToolTip": "DataBase\\Models\\InvoiceReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:21:11.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Data\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\Data\\MyDBContext.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Data\\MyDBContext.cs",
+              "RelativeToolTip": "DataBase\\Data\\MyDBContext.cs",
+              "ViewState": "AQIAABECAAAAAAAAAAAcwBEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:13:46.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backEnd\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backEnd\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T14:22:49.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\Notification.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\Notification.cs",
+              "RelativeToolTip": "DataBase\\Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:21:10.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\OrderService.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\OrderService.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\OrderService.cs",
+              "RelativeToolTip": "DataBase\\Models\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:21:10.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250315083422_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Migrations\\20250315083422_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DataBase\\Migrations\\20250315083422_InitialCreate.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Migrations\\20250315083422_InitialCreate.cs",
+              "RelativeToolTip": "DataBase\\Migrations\\20250315083422_InitialCreate.cs",
+              "ViewState": "AQIAAMoDAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:13:55.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiscountServiceDetail.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\DiscountServiceDetail.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\DiscountServiceDetail.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\DiscountServiceDetail.cs",
+              "RelativeToolTip": "DataBase\\Models\\DiscountServiceDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:21:14.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiscountRoomDetail.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\DiscountRoomDetail.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\DiscountRoomDetail.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\DiscountRoomDetail.cs",
+              "RelativeToolTip": "DataBase\\Models\\DiscountRoomDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:21:14.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountReservationDetail.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\DiscountReservationDetail.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\DiscountReservationDetail.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\DataBase\\Models\\DiscountReservationDetail.cs",
+              "RelativeToolTip": "DataBase\\Models\\DiscountReservationDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:21:15.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebHotel.csproj",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\WebHotel.csproj",
+              "RelativeDocumentMoniker": "backEnd\\WebHotel.csproj",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\WebHotel.csproj",
+              "RelativeToolTip": "backEnd\\WebHotel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T14:18:32.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiscountRoomDetailAdminRepository.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Repository\\AdminRepository\\DiscountServiceDetailAdminRepository\\DiscountRoomDetailAdminRepository.cs",
+              "RelativeDocumentMoniker": "backEnd\\Repository\\AdminRepository\\DiscountServiceDetailAdminRepository\\DiscountRoomDetailAdminRepository.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Repository\\AdminRepository\\DiscountServiceDetailAdminRepository\\DiscountRoomDetailAdminRepository.cs",
+              "RelativeToolTip": "backEnd\\Repository\\AdminRepository\\DiscountServiceDetailAdminRepository\\DiscountRoomDetailAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:18:23.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDiscountRoomDetailAdminRepository.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Repository\\AdminRepository\\DiscountServiceDetailAdminRepository\\IDiscountRoomDetailAdminRepository.cs",
+              "RelativeDocumentMoniker": "backEnd\\Repository\\AdminRepository\\DiscountServiceDetailAdminRepository\\IDiscountRoomDetailAdminRepository.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Repository\\AdminRepository\\DiscountServiceDetailAdminRepository\\IDiscountRoomDetailAdminRepository.cs",
+              "RelativeToolTip": "backEnd\\Repository\\AdminRepository\\DiscountServiceDetailAdminRepository\\IDiscountRoomDetailAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:18:22.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Program.cs",
+              "RelativeDocumentMoniker": "backEnd\\Program.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Program.cs",
+              "RelativeToolTip": "backEnd\\Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:17:46.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Service\\TokenRepository\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "backEnd\\Service\\TokenRepository\\TokenRepository.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Service\\TokenRepository\\TokenRepository.cs",
+              "RelativeToolTip": "backEnd\\Service\\TokenRepository\\TokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:17:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMG_0317.jpg -  [English (United States)] - Bitmap [3024x2865, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Images\\IMG_0317.jpg",
+              "RelativeDocumentMoniker": "backEnd\\Images\\IMG_0317.jpg",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Images\\IMG_0317.jpg -  [English (United States)] - Bitmap [3024x2865, 24 bit, JPG]",
+              "RelativeToolTip": "backEnd\\Images\\IMG_0317.jpg -  [English (United States)] - Bitmap [3024x2865, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-18T14:17:39.83Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [3024x2865, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMG_4028.png -  [English (United States)] - PNG [2425x4031, 24 bit, PNG]",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Images\\IMG_4028.png",
+              "RelativeDocumentMoniker": "backEnd\\Images\\IMG_4028.png",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Images\\IMG_4028.png -  [English (United States)] - PNG [2425x4031, 24 bit, PNG]",
+              "RelativeToolTip": "backEnd\\Images\\IMG_4028.png -  [English (United States)] - PNG [2425x4031, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-18T14:17:38.811Z",
+              "EditorCaption": " -  [English (United States)] - PNG [2425x4031, 24 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMG_4028-min.png -  [English (United States)] - PNG [2425x4031, 8 bit, PNG]",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Images\\IMG_4028-min.png",
+              "RelativeDocumentMoniker": "backEnd\\Images\\IMG_4028-min.png",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Images\\IMG_4028-min.png -  [English (United States)] - PNG [2425x4031, 8 bit, PNG]",
+              "RelativeToolTip": "backEnd\\Images\\IMG_4028-min.png -  [English (United States)] - PNG [2425x4031, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-18T14:17:37.784Z",
+              "EditorCaption": " -  [English (United States)] - PNG [2425x4031, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "backEnd\\appsettings.json",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\appsettings.json",
+              "RelativeToolTip": "backEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T14:14:44.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "logo.png -  [English (United States)] - PNG [215x223, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Images\\logo.png",
+              "RelativeDocumentMoniker": "backEnd\\Images\\logo.png",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Images\\logo.png -  [English (United States)] - PNG [215x223, 32 bit, PNG]",
+              "RelativeToolTip": "backEnd\\Images\\logo.png -  [English (United States)] - PNG [215x223, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-18T14:17:36.764Z",
+              "EditorCaption": " -  [English (United States)] - PNG [215x223, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Startup\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "backEnd\\Startup\\ConfigureSwaggerOptions.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Startup\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "backEnd\\Startup\\ConfigureSwaggerOptions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:16:13.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthorSetup.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Startup\\AuthorSetup.cs",
+              "RelativeDocumentMoniker": "backEnd\\Startup\\AuthorSetup.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Startup\\AuthorSetup.cs",
+              "RelativeToolTip": "backEnd\\Startup\\AuthorSetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:16:12.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\package-lock.json",
+              "RelativeDocumentMoniker": "backEnd\\package-lock.json",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\package-lock.json",
+              "RelativeToolTip": "backEnd\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T14:16:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IReservationUserRepository.cs",
+              "DocumentMoniker": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Repository\\UserRepository\\ReservationUserRepository\\IReservationUserRepository.cs",
+              "RelativeDocumentMoniker": "backEnd\\Repository\\UserRepository\\ReservationUserRepository\\IReservationUserRepository.cs",
+              "ToolTip": "D:\\Web_HotelBooking\\Web_VinpearlBooking\\backEnd\\backEnd\\Repository\\UserRepository\\ReservationUserRepository\\IReservationUserRepository.cs",
+              "RelativeToolTip": "backEnd\\Repository\\UserRepository\\ReservationUserRepository\\IReservationUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:14:32.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
